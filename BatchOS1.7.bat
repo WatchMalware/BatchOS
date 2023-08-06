@@ -620,5 +620,11 @@ goto website
 
 :help
 cls
-
-
+echo Main Color is 06 or yellow
+echo.
+echo Made By WatchMalware!
+echo.
+echo The Command List is Built in!
+echo This is a OS have Fun
+pause
+goto main
